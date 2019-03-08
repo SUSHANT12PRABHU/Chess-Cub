@@ -1,12 +1,12 @@
-# Chess-Cub Google Action 
+# Chesscub Google Action 
 
-#### Chess Cub is a fun Chess Opening based Trivia Game. Chess Cub Google Action developed with information on Chess openings from Chess.com website and from trusted sources to challenge the chess enthusiasts skills and test their know-how of the chess openings via a fun based quiz trivia.
+#### Chesscub is a fun Chess Opening based Trivia Game. Chesscub Google Action developed with information on Chess openings from Chess.com website and from trusted sources to challenge the chess enthusiasts skills and test their know-how of the chess openings via a fun based quiz trivia.
 
 **Inspiration of Idea**
 
 [ChessBase.in](https://chessbase.in/ "ChessBase Official Website")
 
-![ChessBase India](https://github.com/SUSHANT12PRABHU/Chess-Cub/blob/master/chessbase.jpg "ChessBase India")
+![ChessBase India](https://github.com/SUSHANT12PRABHU/Chesscub/blob/master/chessbase.jpg "ChessBase India")
 
 
 **Information about Chess Openings** :-
@@ -17,14 +17,7 @@
 
 **Invocation** :- ( Install Google Assistant if not already present )
 
-`Ok Google , Talk to Chess Cub`
-
-`Ok Google , Talk to Chess Trivia`
-
-`Ok Google , Talk to Chess Openings` 
-
-`Ok Google , Talk to Chess Base Openings` 
-
+`Ok Google , Talk to Chesscub`
 
 
 **Google Action Logo Credits**
