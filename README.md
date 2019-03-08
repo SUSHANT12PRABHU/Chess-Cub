@@ -4,7 +4,10 @@
 
 **Inspiration of Idea**
 
-`[ChessBase.in](https://chessbase.in/ "ChessBase Official Website")`
+[ChessBase.in](https://chessbase.in/ "ChessBase Official Website")
+
+![ChessBase India](https://github.com/SUSHANT12PRABHU/Chess-Cub/blob/master/chessbase.jpg "ChessBase India")
+
 
 **Information about Chess Openings** :-
 
@@ -12,7 +15,7 @@
 * [Wikipedia](https://www.wikipedia.org/ "Wikipedia")
 
 
-Invocation :- ( Install Google Assistant if not already present )
+**Invocation** :- ( Install Google Assistant if not already present )
 
 `Ok Google , Talk to Chess Cub`
 
